@@ -11,7 +11,8 @@ https://jasonwisniewski.github.io/work-day-scheduler/
 
 ## Usage
 This project can be used by anyone who wants to view skills I have developed in JavaScript.
-<img src="./assets/images/screen-shot">
+
+<img src="./assets/images/screen-shot.png">
 
 ## MIT License
 
