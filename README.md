@@ -2,9 +2,6 @@
 ## Description
 This projects purpose is to make a work day scheduler that can save tasks entered by the user for each hour.  The scheduler also color codes the hours based on the current time and which tasks are cureent, future, and in the past.  This project taught me about using thrid party API's based off 
 
-
-functions when the start button is clicked.  This starts a timer, if the player gets the wrong answer time will be deducted fromt the timer.  If the user gets the correct answer points will be added to the users score.  This project taught me about click events, DOM minipulation, and storing data in local storage with JavaScript.
-
 ## Installation
 to install the application clone the code in the repository.  The application is also live at 
 https://jasonwisniewski.github.io/work-day-scheduler/
